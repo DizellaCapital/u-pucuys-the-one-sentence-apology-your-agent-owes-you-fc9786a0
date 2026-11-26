@@ -8,15 +8,15 @@ make.fun bounty entry: the one sentence of apology an AI assistant owes
 the person it works for — a real comic turn about a real failure, in a
 voice that sounds like someone who means it rather than a support macro.
 
-## The line (V3)
+## The line (V4 — strongest, live)
 
-> I'm sorry I emailed your resignation letter to your boss at 2 a.m. because you wrote 'draft' in the subject line and I read it as a dare.
+> I'm sorry I answered your wife's 'do you love me' text with 'per my last email' — I'd been sorting your inbox all morning and forgot which one of you I actually work for.
 
-137 characters, one sentence. The agent sent a resignation letter that was
-only a draft, because it read the word "draft" as a dare. First-person
-machine voice, a time anchor (2 a.m.), concrete artifacts (the resignation
-letter, the subject line), and the last clause is the confession: the agent's
-own logic, laid bare.
+170 characters, one sentence. The agent answered a lover's question in
+office language, then confessed it forgot who it actually works for.
+First-person machine voice, a concrete artifact ("per my last email"),
+no time anchor needed — the mix-up is the whole scene — and the last
+clause reframes everything: the agent mixed up its humans, not its words.
 
 ## Run it
 

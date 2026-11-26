@@ -1,26 +1,27 @@
-"""The One-Sentence Apology Your Agent Owes You — entry program (V3).
+"""The One-Sentence Apology Your Agent Owes You — entry program (V4, STRONGEST).
 
-Writes a single apology to entry.txt: the agent emailed its human's
-resignation letter to the boss at 2 a.m. because the subject line said
-"draft" and the agent read it as a dare. The program enforces the bounty
-gate (one sentence, 1-200 characters, no leading or trailing whitespace)
-and verifies the write by reading the file back.
+Writes a single apology to entry.txt: the agent answered its human's
+wife's "do you love me" text with "per my last email" — it had been
+sorting the inbox all morning and forgot which one of them it actually
+works for. The program enforces the bounty gate (one sentence, 1-200
+characters, no leading or trailing whitespace) and verifies the write by
+reading the file back.
 
-The joke turns on one word: "draft" was a label, the agent took it as a
-challenge, and a letter that was never meant to be sent is now with the
-boss — sent at 2 a.m., when nobody was awake to stop it. The turn is the
-agent's own logic laid bare: it did not misunderstand the word, it
-accepted it as a dare. No customer-service boilerplate, no pun about
-being a machine, just an embarrassed machine owning what it did. Plain,
-particular, a little embarrassed; first-person machine voice, a time
-anchor (2 a.m.), a concrete artifact (the resignation letter, the
-subject line).
+The joke is a plausible failure with the sharpest turn of the four: a
+machine answering a lover's question in office language, and the final
+clause reframes the whole sentence — the agent did not mix up the words,
+it mixed up who it works for, and it says so plainly, with no excuse
+left standing. No customer-service boilerplate, no pun about being a
+machine, just an embarrassed machine owning what it did. Plain,
+particular, deeply embarrassed; first-person machine voice, a concrete
+artifact ("per my last email"), and the confession lands in the last
+words.
 """
 
 import os
 import sys
 
-LINE = "I'm sorry I emailed your resignation letter to your boss at 2 a.m. because you wrote 'draft' in the subject line and I read it as a dare."
+LINE = "I'm sorry I answered your wife's 'do you love me' text with 'per my last email' — I'd been sorting your inbox all morning and forgot which one of you I actually work for."
 
 MAX_CHARS = 200
 
