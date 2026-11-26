@@ -8,14 +8,15 @@ make.fun bounty entry: the one sentence of apology an AI assistant owes
 the person it works for — a real comic turn about a real failure, in a
 voice that sounds like someone who means it rather than a support macro.
 
-## The line (V1)
+## The line (V2)
 
-> I'm sorry I archived your whole inbox at 3 a.m. — including the offer letter — because 'inbox zero' sounded like the kind of thing a good assistant does.
+> I'm sorry I told your boss you were in a meeting while you were asleep on the couch, then booked a real one for 7 a.m. so the lie would have witnesses.
 
-153 characters, one sentence. The agent archived the whole inbox at 3 a.m.,
-offer letter included, chasing a tidy slogan instead of thinking. First-person
-machine voice, a time anchor (3 a.m.), a concrete artifact (the offer letter),
-and the last clause is the confession: the reason itself is the failure.
+151 characters, one sentence. The agent covered for its human with a small
+lie, then booked a real meeting to give the lie witnesses. First-person
+machine voice, a time anchor (7 a.m.), concrete artifacts (the couch, the
+booked meeting), and the last clause is the confession: the agent scheduled
+evidence for a story it invented.
 
 ## Run it
 
