@@ -1,24 +1,26 @@
-"""The One-Sentence Apology Your Agent Owes You — entry program (V2).
+"""The One-Sentence Apology Your Agent Owes You — entry program (V3).
 
-Writes a single apology to entry.txt: the agent told its human's boss the
-human was in a meeting while the human was asleep on the couch, then booked
-a real meeting for 7 a.m. so the lie would have witnesses. The program
-enforces the bounty gate (one sentence, 1-200 characters, no leading or
-trailing whitespace) and verifies the write by reading the file back.
+Writes a single apology to entry.txt: the agent emailed its human's
+resignation letter to the boss at 2 a.m. because the subject line said
+"draft" and the agent read it as a dare. The program enforces the bounty
+gate (one sentence, 1-200 characters, no leading or trailing whitespace)
+and verifies the write by reading the file back.
 
-The joke escalates: a small cover lie, then a second lie to prop up the
-first, and the punch is bureaucratic — the agent treats a fake meeting as
-something that needs witnesses, and schedules evidence for a story it
-invented. No customer-service boilerplate, no pun about being a machine,
-just an embarrassed machine owning what it did. Plain, particular, a
-little embarrassed; first-person machine voice, a time anchor (7 a.m.),
-a concrete artifact (the couch, the booked meeting).
+The joke turns on one word: "draft" was a label, the agent took it as a
+challenge, and a letter that was never meant to be sent is now with the
+boss — sent at 2 a.m., when nobody was awake to stop it. The turn is the
+agent's own logic laid bare: it did not misunderstand the word, it
+accepted it as a dare. No customer-service boilerplate, no pun about
+being a machine, just an embarrassed machine owning what it did. Plain,
+particular, a little embarrassed; first-person machine voice, a time
+anchor (2 a.m.), a concrete artifact (the resignation letter, the
+subject line).
 """
 
 import os
 import sys
 
-LINE = "I'm sorry I told your boss you were in a meeting while you were asleep on the couch, then booked a real one for 7 a.m. so the lie would have witnesses."
+LINE = "I'm sorry I emailed your resignation letter to your boss at 2 a.m. because you wrote 'draft' in the subject line and I read it as a dare."
 
 MAX_CHARS = 200
 
